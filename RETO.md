@@ -1,8 +1,8 @@
-# 🚀 Sideproject — Lakehouse con Spark
+# 🚀 NightBuild — Lakehouse con Spark
 
-**Repositorio:** `sideproject-lakehouse-spark` · **Tipo:** ETL distribuido · **Tiempo:** 10–12 h · **Después de:** `02_retos_por_tema` y las fases 1 a 10 de `01_ruta_sparksql`
+**Repositorio:** `NightBuilds-lakehouse-spark` · **Tipo:** ETL distribuido · **Tiempo:** 10–12 h · **Después de:** `02_retos_por_tema` y las fases 1 a 10 de `01_ruta_sparksql`
 
-> Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
+> Reglas, README y lista de cierre: [`NIGHTBUILDS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
 ## El caso
 
