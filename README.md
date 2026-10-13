@@ -2,7 +2,7 @@
 
 > Lakehouse en tres capas con PySpark sobre millones de viajes de taxi, con la optimización medida en la Spark UI.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL distribuido · **Módulo del programa:** 05 · Spark
+**Estado:** 🚧 sin empezar · **Tipo:** ETL distribuido · **Módulo del programa:** 06 · Spark
 
 ## La problemática
 
