@@ -2,7 +2,18 @@
 
 > Lakehouse en tres capas con PySpark sobre millones de viajes de taxi, con la optimización medida en la Spark UI.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL distribuido · **Módulo del programa:** 06 · Spark
+**Estado:** 🚧 sin empezar · **Categoría:** NightBuilds · **Tipo:** ETL distribuido · **Módulo del programa:** 06 · Spark
+
+## Qué significa el nombre
+
+El prefijo del repositorio indica el tamaño del proyecto:
+
+| Prefijo | Tamaño | Qué es |
+|---|---|---|
+| `DevSandbox-` | Hasta 8 h | Un proyecto pequeño para practicar un tema concreto: un espacio para probar, equivocarse y terminar rápido |
+| **`NightBuilds-`** ← este | 8 h o más | Un proyecto grande, con varias piezas (base de datos, orquestación, nube o API) y decisiones de diseño propias |
+
+Este es un **NightBuilds**: el reto está estimado en 10–12 h.
 
 ## La problemática
 
